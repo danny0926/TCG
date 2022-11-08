@@ -1,6 +1,6 @@
 # TCG-Threes!
-A 2048 like game : Threes!
-We use some heuristic functions to implement.
+A 2048 like game : Threes!  
+Using heuristic functions to implement.
 
 ## basic usage
 Making the sample program.
